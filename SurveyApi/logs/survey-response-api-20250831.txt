@@ -1,0 +1,162 @@
+2025-08-31 00:09:02.399 +03:00 [INF] Saved 0 entities to in-memory store.
+2025-08-31 00:09:04.782 +03:00 [INF] Saved 5 entities to in-memory store.
+2025-08-31 00:09:06.388 +03:00 [INF] Dual storage sync service started
+2025-08-31 00:09:06.395 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:06.737 +03:00 [INF] Now listening on: https://localhost:7168
+2025-08-31 00:09:06.739 +03:00 [INF] Now listening on: http://localhost:5172
+2025-08-31 00:09:06.741 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-31 00:09:06.742 +03:00 [INF] Hosting environment: Development
+2025-08-31 00:09:06.743 +03:00 [INF] Content root path: C:\Users\ronan\Documents\SurveyResponseSystem\SurveyApi
+2025-08-31 00:09:07.744 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger - null null
+2025-08-31 00:09:07.965 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger - 301 0 null 232.3069ms
+2025-08-31 00:09:07.973 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/index.html - null null
+2025-08-31 00:09:08.114 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/index.html - 200 null text/html;charset=utf-8 141.4916ms
+2025-08-31 00:09:08.141 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/swagger-ui.css - null null
+2025-08-31 00:09:08.142 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/swagger-ui-standalone-preset.js - null null
+2025-08-31 00:09:08.142 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-31 00:09:08.142 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/swagger-ui-bundle.js - null null
+2025-08-31 00:09:08.154 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - 200 13754 application/javascript; charset=utf-8 12.5699ms
+2025-08-31 00:09:08.181 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_vs/browserLink - null null
+2025-08-31 00:09:08.209 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-08-31 00:09:08.209 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-08-31 00:09:08.212 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 70.0138ms
+2025-08-31 00:09:08.213 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/swagger-ui.css - 200 143943 text/css 72.2753ms
+2025-08-31 00:09:08.229 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-08-31 00:09:08.231 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 89.0838ms
+2025-08-31 00:09:08.265 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.5736ms
+2025-08-31 00:09:08.451 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - null null
+2025-08-31 00:09:08.563 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 112.4581ms
+2025-08-31 00:09:11.411 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:16.427 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:21.441 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:26.454 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:31.456 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:36.465 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:38.015 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/api/v1/storage/health - null null
+2025-08-31 00:09:38.023 +03:00 [INF] Executing endpoint 'SurveyApi.Controllers.SurveyResponseController.GetStorageHealth (SurveyApi)'
+2025-08-31 00:09:38.042 +03:00 [INF] Route matched with {action = "GetStorageHealth", controller = "SurveyResponse"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStorageHealth() on controller SurveyApi.Controllers.SurveyResponseController (SurveyApi).
+2025-08-31 00:09:38.045 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:38.093 +03:00 [INF] Executing action method SurveyApi.Controllers.SurveyResponseController.GetStorageHealth (SurveyApi) - Validation state: "Valid"
+2025-08-31 00:09:38.143 +03:00 [INF] Executed action method SurveyApi.Controllers.SurveyResponseController.GetStorageHealth (SurveyApi), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 45.4517ms.
+2025-08-31 00:09:38.149 +03:00 [INF] Executing OkObjectResult, writing value of type 'SurveyApi.Controllers.ApiResponse`1[[Survey.Core.Interfaces.StorageHealthMetrics, Survey.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-31 00:09:38.169 +03:00 [INF] Executed action SurveyApi.Controllers.SurveyResponseController.GetStorageHealth (SurveyApi) in 122.7933ms
+2025-08-31 00:09:38.170 +03:00 [INF] Executed endpoint 'SurveyApi.Controllers.SurveyResponseController.GetStorageHealth (SurveyApi)'
+2025-08-31 00:09:38.172 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/api/v1/storage/health - 200 null application/json; charset=utf-8 157.449ms
+2025-08-31 00:09:41.469 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:46.480 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:51.494 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:09:56.499 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:01.508 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:06.522 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:11.533 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:16.547 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:21.561 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:26.574 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:31.579 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:36.591 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:41.598 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:46.612 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:51.624 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:10:56.634 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:01.641 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:06.641 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:11.644 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:16.648 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:21.661 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:26.672 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:31.677 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:36.683 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:41.699 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:46.705 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:51.715 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:11:56.723 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:01.732 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:06.737 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:11.747 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:16.750 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:21.751 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:26.765 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:31.781 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:36.785 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:41.797 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:46.811 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:51.819 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:12:56.829 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:01.836 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:06.841 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:11.853 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:16.857 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:21.859 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:26.860 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:31.869 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:36.876 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:41.881 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:46.895 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:51.900 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:13:56.902 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:01.912 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:06.921 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:11.928 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:16.940 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:21.946 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:26.960 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:31.975 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:36.990 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:41.995 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:47.009 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:52.017 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:14:57.018 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:02.020 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:07.022 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:12.028 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:17.031 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:22.046 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:27.052 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:32.065 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:37.070 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:42.072 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:47.084 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:52.097 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:15:57.110 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:02.126 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:07.140 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:12.150 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:17.161 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:22.170 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:27.183 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:32.190 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:37.193 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:42.206 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:47.217 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:52.220 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:16:57.232 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:02.241 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:07.251 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:12.262 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:17.269 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:22.276 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:27.290 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:32.297 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:37.309 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:42.313 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:47.314 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:52.318 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:17:57.328 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:02.336 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:07.340 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:12.349 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:17.353 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:22.367 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:27.375 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:32.384 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:37.394 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:42.401 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:47.403 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:52.420 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:18:57.424 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:19:02.438 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:19:07.452 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:19:12.459 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:19:17.461 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:19:22.466 +03:00 [INF] DynamoDB simulation service initialized
+2025-08-31 00:19:27.481 +03:00 [INF] DynamoDB simulation service initialized

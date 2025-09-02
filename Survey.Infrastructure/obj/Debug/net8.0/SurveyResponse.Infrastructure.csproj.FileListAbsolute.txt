@@ -1,0 +1,15 @@
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.AssemblyInfo.cs
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\bin\Debug\net8.0\SurveyResponse.Infrastructure.deps.json
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\bin\Debug\net8.0\SurveyResponse.Infrastructure.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\bin\Debug\net8.0\SurveyResponse.Infrastructure.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\bin\Debug\net8.0\SurveyResponse.Core.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\bin\Debug\net8.0\SurveyResponse.Core.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyRe.A1D63AE3.Up2Date
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\refint\SurveyResponse.Infrastructure.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\SurveyResponse.Infrastructure.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Infrastructure\obj\Debug\net8.0\ref\SurveyResponse.Infrastructure.dll

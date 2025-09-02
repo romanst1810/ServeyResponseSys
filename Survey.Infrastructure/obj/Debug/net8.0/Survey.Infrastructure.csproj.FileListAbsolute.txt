@@ -1,0 +1,15 @@
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.AssemblyInfo.cs
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\bin\Debug\net8.0\Survey.Infrastructure.deps.json
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\bin\Debug\net8.0\Survey.Infrastructure.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\bin\Debug\net8.0\Survey.Infrastructure.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\bin\Debug\net8.0\Survey.Core.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\bin\Debug\net8.0\Survey.Core.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.I.52D610FB.Up2Date
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\refint\Survey.Infrastructure.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\Survey.Infrastructure.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\Survey.Infrastructure\obj\Debug\net8.0\ref\Survey.Infrastructure.dll

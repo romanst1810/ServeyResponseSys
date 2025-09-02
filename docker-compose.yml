@@ -1,0 +1,79 @@
+version: '3.8'
+
+services:
+  # Survey Response API
+  survey-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+      - "5001:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=db;Database=SurveyResponseDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=true
+    depends_on:
+      - db
+      - redis
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - survey-network
+    restart: unless-stopped
+
+  # SQL Server Database
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong@Passw0rd
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    networks:
+      - survey-network
+    restart: unless-stopped
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - survey-network
+    restart: unless-stopped
+
+  # Azure Storage Emulator (for development)
+  azurite:
+    image: mcr.microsoft.com/azure-storage/azurite:latest
+    ports:
+      - "10000:10000"
+      - "10001:10001"
+      - "10002:10002"
+    volumes:
+      - azurite_data:/data
+    networks:
+      - survey-network
+    restart: unless-stopped
+
+  # Application Insights (optional - for production monitoring)
+  # app-insights:
+  #   image: mcr.microsoft.com/applicationinsights/applicationinsights:latest
+  #   environment:
+  #     - APPLICATIONINSIGHTS_CONNECTION_STRING=your-connection-string
+  #   networks:
+  #     - survey-network
+  #   restart: unless-stopped
+
+volumes:
+  sqlserver_data:
+  redis_data:
+  azurite_data:
+
+networks:
+  survey-network:
+    driver: bridge

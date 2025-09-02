@@ -1,0 +1,11 @@
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\SurveyResponse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\SurveyResponse.Core.AssemblyInfoInputs.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\SurveyResponse.Core.AssemblyInfo.cs
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\SurveyResponse.Core.csproj.CoreCompileInputs.cache
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\bin\Debug\net8.0\SurveyResponse.Core.deps.json
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\bin\Debug\net8.0\SurveyResponse.Core.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\bin\Debug\net8.0\SurveyResponse.Core.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\SurveyResponse.Core.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\refint\SurveyResponse.Core.dll
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\SurveyResponse.Core.pdb
+C:\Users\ronan\Documents\SurveyResponseSystem\SurveyResponse.Core\obj\Debug\net8.0\ref\SurveyResponse.Core.dll

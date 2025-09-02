@@ -1,0 +1,82 @@
+2025-08-29 00:33:12.389 +03:00 [INF] Test data would be seeded in a real implementation
+2025-08-29 00:33:13.048 +03:00 [INF] Now listening on: https://localhost:7168
+2025-08-29 00:33:13.052 +03:00 [INF] Now listening on: http://localhost:5172
+2025-08-29 00:33:13.056 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 00:33:13.057 +03:00 [INF] Hosting environment: Development
+2025-08-29 00:33:13.058 +03:00 [INF] Content root path: C:\Users\ronan\Documents\SurveyResponseSystem\SurveyApi
+2025-08-29 00:33:14.755 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger - null null
+2025-08-29 00:33:15.049 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger - 301 0 null 317.5498ms
+2025-08-29 00:33:15.055 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/index.html - null null
+2025-08-29 00:33:15.218 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/index.html - 200 null text/html;charset=utf-8 162.7928ms
+2025-08-29 00:33:15.259 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/swagger-ui-bundle.js - null null
+2025-08-29 00:33:15.259 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/swagger-ui-standalone-preset.js - null null
+2025-08-29 00:33:15.260 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/swagger-ui.css - null null
+2025-08-29 00:33:15.260 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-29 00:33:15.289 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_vs/browserLink - null null
+2025-08-29 00:33:15.366 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - 200 13754 application/javascript; charset=utf-8 106.0807ms
+2025-08-29 00:33:15.400 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-08-29 00:33:15.400 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-08-29 00:33:15.407 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/swagger-ui.css - 200 143943 text/css 148.0659ms
+2025-08-29 00:33:15.407 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 147.108ms
+2025-08-29 00:33:15.435 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-08-29 00:33:15.442 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 182.5117ms
+2025-08-29 00:33:15.447 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_vs/browserLink - 200 null text/javascript; charset=UTF-8 163.3278ms
+2025-08-29 00:33:15.663 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - null null
+2025-08-29 00:33:15.682 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/favicon-32x32.png - null null
+2025-08-29 00:33:15.685 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-08-29 00:33:15.688 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/favicon-32x32.png - 200 628 image/png 6.7294ms
+2025-08-29 00:33:15.775 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 112.7182ms
+2025-08-29 00:35:37.156 +03:00 [INF] Test data would be seeded in a real implementation
+2025-08-29 00:35:37.396 +03:00 [INF] Now listening on: https://localhost:7168
+2025-08-29 00:35:37.400 +03:00 [INF] Now listening on: http://localhost:5172
+2025-08-29 00:35:37.403 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 00:35:37.404 +03:00 [INF] Hosting environment: Development
+2025-08-29 00:35:37.405 +03:00 [INF] Content root path: C:\Users\ronan\Documents\SurveyResponseSystem\SurveyApi
+2025-08-29 00:35:38.160 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/index.html - null null
+2025-08-29 00:35:38.400 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/index.html - 200 null text/html;charset=utf-8 246.5463ms
+2025-08-29 00:35:38.430 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-29 00:35:38.442 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - 200 13754 application/javascript; charset=utf-8 11.3081ms
+2025-08-29 00:35:38.462 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_vs/browserLink - null null
+2025-08-29 00:35:38.502 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.8472ms
+2025-08-29 00:35:38.738 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - null null
+2025-08-29 00:35:38.840 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 102.9381ms
+2025-08-29 00:35:44.591 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7168/api/v1/survey-responses - application/json 556
+2025-08-29 00:35:44.600 +03:00 [INF] CORS policy execution successful.
+2025-08-29 00:35:44.605 +03:00 [INF] Executing endpoint 'SurveyApi.Controllers.SurveyResponseController.SubmitSurveyResponse (SurveyApi)'
+2025-08-29 00:35:44.638 +03:00 [INF] Route matched with {action = "SubmitSurveyResponse", controller = "SurveyResponse"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SubmitSurveyResponse(Survey.Core.Models.SurveyResponseRequest) on controller SurveyApi.Controllers.SurveyResponseController (SurveyApi).
+2025-08-29 00:35:44.757 +03:00 [INF] Executing action method SurveyApi.Controllers.SurveyResponseController.SubmitSurveyResponse (SurveyApi) - Validation state: "Valid"
+2025-08-29 00:35:44.773 +03:00 [INF] Received survey response request: string
+2025-08-29 00:35:44.791 +03:00 [WRN] Survey response validation failed: string, Errors: 2
+2025-08-29 00:35:44.814 +03:00 [INF] Executed action method SurveyApi.Controllers.SurveyResponseController.SubmitSurveyResponse (SurveyApi), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 53.504ms.
+2025-08-29 00:35:44.821 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'SurveyApi.Controllers.ApiResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-29 00:35:44.846 +03:00 [INF] Executed action SurveyApi.Controllers.SurveyResponseController.SubmitSurveyResponse (SurveyApi) in 203.1167ms
+2025-08-29 00:35:44.849 +03:00 [INF] Executed endpoint 'SurveyApi.Controllers.SurveyResponseController.SubmitSurveyResponse (SurveyApi)'
+2025-08-29 00:35:44.852 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7168/api/v1/survey-responses - 400 null application/json; charset=utf-8 261.2881ms
+2025-08-29 00:42:58.830 +03:00 [INF] Test data would be seeded in a real implementation
+2025-08-29 00:42:58.935 +03:00 [INF] Now listening on: https://localhost:7168
+2025-08-29 00:42:58.937 +03:00 [INF] Now listening on: http://localhost:5172
+2025-08-29 00:42:58.940 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 00:42:58.941 +03:00 [INF] Hosting environment: Development
+2025-08-29 00:42:58.942 +03:00 [INF] Content root path: C:\Users\ronan\Documents\SurveyResponseSystem\SurveyApi
+2025-08-29 00:42:59.458 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/index.html - null null
+2025-08-29 00:42:59.610 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/index.html - 200 null text/html;charset=utf-8 152.1047ms
+2025-08-29 00:42:59.634 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-29 00:42:59.639 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - 200 13754 application/javascript; charset=utf-8 5.842ms
+2025-08-29 00:42:59.662 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_vs/browserLink - null null
+2025-08-29 00:42:59.682 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.5838ms
+2025-08-29 00:42:59.831 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - null null
+2025-08-29 00:42:59.913 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.3996ms
+2025-08-29 00:43:29.372 +03:00 [INF] Test data would be seeded in a real implementation
+2025-08-29 00:43:29.623 +03:00 [INF] Now listening on: https://localhost:7168
+2025-08-29 00:43:29.625 +03:00 [INF] Now listening on: http://localhost:5172
+2025-08-29 00:43:29.628 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 00:43:29.630 +03:00 [INF] Hosting environment: Development
+2025-08-29 00:43:29.631 +03:00 [INF] Content root path: C:\Users\ronan\Documents\SurveyResponseSystem\SurveyApi
+2025-08-29 00:43:30.276 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/index.html - null null
+2025-08-29 00:43:30.521 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/index.html - 200 null text/html;charset=utf-8 254.4633ms
+2025-08-29 00:43:30.549 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-29 00:43:30.559 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_framework/aspnetcore-browser-refresh.js - 200 13754 application/javascript; charset=utf-8 10.7039ms
+2025-08-29 00:43:30.588 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/_vs/browserLink - null null
+2025-08-29 00:43:30.631 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.7828ms
+2025-08-29 00:43:30.759 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - null null
+2025-08-29 00:43:30.861 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7168/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 102.0576ms

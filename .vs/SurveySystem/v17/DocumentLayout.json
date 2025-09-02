@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\dualstoragesyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\dualstoragesyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\controllers\\surveyresponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\controllers\\surveyresponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\models\\healthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\models\\healthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\models\\componentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\models\\componentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\models\\healthmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\models\\healthmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50116E94-7D03-4A73-9EF5-7AF8E7DCDD3F}|Survey.Tests\\Survey.Tests.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.tests\\surveyresponseintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50116E94-7D03-4A73-9EF5-7AF8E7DCDD3F}|Survey.Tests\\Survey.Tests.csproj|solutionrelative:survey.tests\\surveyresponseintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50116E94-7D03-4A73-9EF5-7AF8E7DCDD3F}|Survey.Tests\\Survey.Tests.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.tests\\surveyresponserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50116E94-7D03-4A73-9EF5-7AF8E7DCDD3F}|Survey.Tests\\Survey.Tests.csproj|solutionrelative:survey.tests\\surveyresponserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\inmemoryfaststorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\inmemoryfaststorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\inmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\inmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\storageorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\storageorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\surveyresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\surveyresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\survey.infrastructure\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A5B5F-8911-4B1D-9393-64C2DDA03EBD}|Survey.Infrastructure\\Survey.Infrastructure.csproj|solutionrelative:survey.infrastructure\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|c:\\users\\ronan\\documents\\surveyresponsesystem\\surveyapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5FBBACD-35A8-4DE6-A276-FC45CD679D11}|SurveyApi\\SurveyApi.csproj|solutionrelative:surveyapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthMetrics.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Models\\HealthMetrics.cs",
+              "RelativeDocumentMoniker": "SurveyApi\\Models\\HealthMetrics.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Models\\HealthMetrics.cs",
+              "RelativeToolTip": "SurveyApi\\Models\\HealthMetrics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:56:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Models\\HealthStatus.cs",
+              "RelativeDocumentMoniker": "SurveyApi\\Models\\HealthStatus.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Models\\HealthStatus.cs",
+              "RelativeToolTip": "SurveyApi\\Models\\HealthStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:55:26.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComponentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Models\\ComponentStatus.cs",
+              "RelativeDocumentMoniker": "SurveyApi\\Models\\ComponentStatus.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Models\\ComponentStatus.cs",
+              "RelativeToolTip": "SurveyApi\\Models\\ComponentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:55:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SurveyResponseController.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Controllers\\SurveyResponseController.cs",
+              "RelativeDocumentMoniker": "SurveyApi\\Controllers\\SurveyResponseController.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Controllers\\SurveyResponseController.cs",
+              "RelativeToolTip": "SurveyApi\\Controllers\\SurveyResponseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:35:15.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SurveyResponseIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Tests\\SurveyResponseIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Survey.Tests\\SurveyResponseIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Tests\\SurveyResponseIntegrationTests.cs",
+              "RelativeToolTip": "Survey.Tests\\SurveyResponseIntegrationTests.cs",
+              "ViewState": "AQIAAKEBAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:32:34.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurveyResponseRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Tests\\SurveyResponseRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Survey.Tests\\SurveyResponseRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Tests\\SurveyResponseRepositoryTests.cs",
+              "RelativeToolTip": "Survey.Tests\\SurveyResponseRepositoryTests.cs",
+              "ViewState": "AQIAAMUBAAAAAAAAAAAAAKsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:31:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DualStorageSyncService.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\DualStorageSyncService.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\DualStorageSyncService.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\DualStorageSyncService.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\DualStorageSyncService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:28:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Program.cs",
+              "RelativeDocumentMoniker": "SurveyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\Program.cs",
+              "RelativeToolTip": "SurveyApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T20:55:35.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryFastStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\InMemoryFastStorageService.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\InMemoryFastStorageService.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\InMemoryFastStorageService.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\InMemoryFastStorageService.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAGEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:26:42.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\InMemoryQueueService.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\InMemoryQueueService.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\InMemoryQueueService.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\InMemoryQueueService.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:25:47.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MetricsService.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\MetricsService.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\MetricsService.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\MetricsService.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\MetricsService.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAJ0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:25:05.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SurveyResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\SurveyResponseService.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\SurveyResponseService.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\SurveyResponseService.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\SurveyResponseService.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:22:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\ValidationService.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\ValidationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:20:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SurveyApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\appsettings.json",
+              "RelativeToolTip": "SurveyApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T21:05:55.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SurveyApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\SurveyApi\\appsettings.Development.json",
+              "RelativeToolTip": "SurveyApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T21:03:29.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StorageOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\StorageOrchestrator.cs",
+              "RelativeDocumentMoniker": "Survey.Infrastructure\\Services\\StorageOrchestrator.cs",
+              "ToolTip": "C:\\Users\\ronan\\Documents\\SurveyResponseSystem\\Survey.Infrastructure\\Services\\StorageOrchestrator.cs",
+              "RelativeToolTip": "Survey.Infrastructure\\Services\\StorageOrchestrator.cs",
+              "ViewState": "AQIAACoDAAAAAAAAAAAAAKwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:57:41.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
